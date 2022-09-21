@@ -1,0 +1,24 @@
+body{
+    background-image: url(imagenes/IMG-20220916-WA0025.jpg);
+    background-size: cover;
+    color: white;
+}
+
+
+.info{
+    width: 50%;
+    height: auto;
+    background: #33c9c9;
+    margin:5% auto;
+    padding: 20PX;
+    border-radius: 20px;
+}
+#img1{
+    border-radius: 10%;
+    width: 450px;
+    height: 250px;
+}
+#img1{
+    float: right;
+}
+
